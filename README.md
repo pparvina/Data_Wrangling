@@ -1,4 +1,4 @@
-# Data_Wrangling
+# Data_Wrangling (For my own observations)
 
 ### Introduction
 This project was part of the Data Analyst Nanodegree Program on Udacity.
@@ -15,5 +15,4 @@ Convert our assessments into defined cleaning tasks. These definitions also serv
 Code: convert those definitions to code and run that code.
 Test: test your dataset, visually or with code, to make sure your cleaning operations worked.
 
-### Insights:
 
